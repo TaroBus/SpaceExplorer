@@ -12,7 +12,7 @@ class Start:
         self.bg = pygame.image.load("Screen Assets/start.png")
         # scale the text box parts
         self.bg = pygame.transform.scale(self.bg, (self.screen.get_width(), self.screen.get_height()))
-        self.input_rect = pygame.Rect(self.screen.get_width() // 2 - 320, self.screen.get_height() - 250, 623, 58)
+        self.input_rect = pygame.Rect(self.screen.get_width() // 2 - 320, self.screen.get_height() // 2 + 250, 623, 58)
         self.cursor_rect = pygame.Rect(self.input_rect.x + 5, self.input_rect.y + 5, 2, self.input_rect.height - 10)
         # conditions
         self.active = False
