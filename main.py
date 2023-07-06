@@ -185,5 +185,8 @@ while True:
             last_shot_time = 0
             score = 0
             scoring = my_font.render(f"Current Score: {score}", True, (241, 250, 238))
+            # get username
+            name = Start(screen).run()
+            user_name = my_font.render(f"Username: {name}", True, (241, 250, 238))
     pygame.display.update()
     clocked.tick(60)
