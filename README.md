@@ -52,4 +52,4 @@ The following dependencies are required to run the game:
 ------------
 
 
-*-J & J*
+*- J & J*
