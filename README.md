@@ -1,6 +1,6 @@
 
 # Name: SpaceExplorer
-![image](https://github.com/TaroBus/SpaceExplorer/assets/118489515/6afe8188-96b4-4354-8d10-b9213a8bf0d2)
+![image](https://github.com/TaroBus/SpaceExplorer/assets/118489515/d416fa4b-a995-4d54-abe9-67ab9a806ea5)
 
 # Description:
 
