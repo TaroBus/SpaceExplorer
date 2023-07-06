@@ -48,3 +48,8 @@ The following dependencies are required to run the game:
 -   For the spaceship, the spaceship follows the mouse cursor. The position of the player and position of the mouse (which are vector points) are subtracted, getting the distance between each point. You then can use trigonometry to find the angle, and use the pygame.transform function to show the rotating sprite.
 -   For the meteors, all different images of the meteors are put into the Sprite Group (similar to a list)  `meteor_images`  and are chosen randomly. Their speed is also randomized. Then they are blit into the main game from the group.
 -   For the projectiles (lasers), they are blit onto the screen at the center of the spaceship and go toward the mouse cursor's position at that time using trig and the ship angle of rotation to go a set speed of 8.
+
+------------
+
+
+*-J & J*
